@@ -1,0 +1,211 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+article {
+    width: fit-content;
+    margin: 60px auto;
+    display: flex;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+}
+
+ul {
+    list-style: none;
+    margin-left: 20px;
+}
+
+li {
+    margin-bottom: 40px;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 1em;
+}
+
+figure {
+    height: 60px;
+    width: 100px;
+    margin-top: 3px;
+}
+
+figcaption {
+    font-family: sans-serif;
+    font-size: 0.9em;
+    padding-top: 63px;
+}
+
+/* manzanita dusk */
+figure[class="475A7E"] {
+    background-color: #475A7E;
+}
+
+figure[class="F5B474"] {
+    background-color: #F5B474;
+}
+
+figure[class="2C343B"] {
+    background-color: #2C343B;
+}
+
+figure[class="DB8C7E"] {
+    background-color: #DB8C7E;
+}
+
+/* orchid */
+figure[class="1B2A49"] {
+    background-color: #1B2A49;
+}
+
+figure[class="658BC4"] {
+    background-color: #658BC4;
+}
+
+figure[class="2F2F32"] {
+    background-color: #2F2F32;
+}
+
+figure[class="9FA140"] {
+    background-color: #9FA140;
+}
+
+/* urban snow */
+figure[class="245A6C"] {
+    background-color: #245A6C;
+}
+
+figure[class="B8C4D7"] {
+    background-color: #B8C4D7;
+}
+
+figure[class="242B2C"] {
+    background-color: #242B2C;
+}
+
+figure[class="9A4341"] {
+    background-color: #9A4341;
+}
+
+/* lands end */
+figure[class="78978E"] {
+    background-color: #78978E;
+}
+
+figure[class="B0BCBF"] {
+    background-color: #B0BCBF;
+}
+
+figure[class="29201D"] {
+    background-color: #29201D;
+}
+
+figure[class="AE7260"] {
+    background-color: #AE7260;
+}
+
+/* glowing tree */
+figure[class="A2B2C0"] {
+    background-color: #A2B2C0;
+}
+
+figure[class="CDA828"] {
+    background-color: #CDA828;
+}
+
+figure[class="111309"] {
+    background-color: #111309;
+}
+
+figure[class="AB6A32"] {
+    background-color: #AB6A32;
+}
+
+/* carwash */
+figure[class="004595"] {
+    background-color: #004595;
+}
+
+figure[class="58CCFB"] {
+    background-color: #58CCFB;
+}
+
+figure[class="062546"] {
+    background-color: #062546;
+}
+
+figure[class="2281E1"] {
+    background-color: #2281E1;
+}
+
+/* shells */
+figure[class="2C3240"] {
+    background-color: #2C3240;
+}
+
+figure[class="C17A6D"] {
+    background-color: #C17A6D;
+}
+
+figure[class="594D4E"] {
+    background-color: #594D4E;
+}
+
+figure[class="DB9066"] {
+    background-color: #DB9066;
+}
+
+/* snowy branches */
+figure[class="37445D"] {
+    background-color: #37445D;
+}
+
+figure[class="C09D2A"] {
+    background-color: #C09D2A;
+}
+
+figure[class="202222"] {
+    background-color: #202222;
+}
+
+figure[class="89878B"] {
+    background-color: #89878B;
+}
+
+/* gleneden beach */
+figure[class="526A86"] {
+    background-color: #526A86;
+}
+
+figure[class="F4B7A5"] {
+    background-color: #F4B7A5;
+}
+
+figure[class="223643"] {
+    background-color: #223643;
+}
+
+figure[class="9FA5CA"] {
+    background-color: #9FA5CA;
+}
+
+/* neon and ice */
+figure[class="373438"] {
+    background-color: #373438;
+}
+
+figure[class="3F8F9C"] {
+    background-color: #3F8F9C;
+}
+
+figure[class="F4F5F5"] {
+    background-color: #F4F5F5;
+}
+
+figure[class="E83E33"] {
+    background-color: #E83E33;
+}
